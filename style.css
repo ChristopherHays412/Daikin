@@ -1,0 +1,159 @@
+@charset "utf-8";
+p {
+color: #fff;
+font-family: Arial, sans-serif;
+}
+/* links */
+a {
+	color: #6ccada;	
+	text-decoration: none;	
+	-webkit-transition: color 0.3s ease;
+	-moz-transition: color 0.3s ease;
+	-ms-transition: color 0.3s ease;
+	-o-transition: color 0.3s ease;
+	transition: color 0.3s ease;
+}
+
+a:hover {
+	color: #fff;	
+}
+
+input.firstname
+{
+background-image: url('images/DaiklinTemplate_08.gif');
+width: 237px;
+height: 20px;
+padding: 3px;
+border: 0;
+}
+
+input.lastname
+{
+background-image: url('images/formLeft_06.gif');
+width: 234px;
+height: 19px;
+padding: 3px;
+border: 0;
+}
+
+input.address1
+{
+background-image: url('images/formLeft_10.gif');
+width: 234px;
+height: 19px;
+border: 0;
+padding: 3px;
+}
+
+input.address2
+{
+background-image: url('images/formLeft_14.gif');
+width: 234px;
+height: 19px;
+border: 0;
+padding: 3px;
+}
+
+input.city
+{
+background-image: url('images/formLeft_18.gif');
+width: 234px;
+height: 19px;
+border: 0;
+padding: 3px;
+}
+
+input.zip
+{
+background-image: url('images/formLeft_26.gif');
+width: 234px;
+height: 19px;
+border: 0;
+padding: 3px;
+}
+input.phone1
+{
+background-image: url('images/formLeft_30.gif');
+width: 234px;
+height: 19px;
+border: 0;
+padding: 3px;
+}
+input.phone2
+{
+background-image: url('images/formLeft_30.gif');
+width: 234px;
+height: 19px;
+border: 0;
+padding: 3px;
+}
+input.email
+{
+background-image: url('images/formLeft_30.gif');
+width: 234px;
+height: 19px;
+border: 0;
+padding: 3px;
+}
+input.orig_airport
+{
+background-image: url('images/formRight2_05.gif');
+width: 183px;
+height: 25px;
+border: 0;
+padding: 3px;
+}
+textarea.dietary {
+background-image: url('images/formRight3_05.gif');
+width: 360px;
+height: 59px;
+border: 0;
+padding: 3px;
+}
+textarea.question {
+background-image: url('images/formRight3_14.gif');
+width: 360px;
+height: 60px;
+border: 0;
+padding: 3px;
+}
+td.form1 {
+	width: 475px;
+}
+input.reserve_number {
+	width: 445px;
+	height: 52px;	
+	background-image: url('images/reserve_background.gif');
+	padding: 10px;
+	font-size: 16px;
+	color: #717274;
+}
+select.shirt {
+	width: 237px;
+	height: 22px;
+}		
+select.state {
+	width: 237px;
+	height: 22px;
+}		
+td.hotel_select {
+	background-image: url(images/hotel_select_bg.gif);
+	width: 448px;
+	height: 20px;
+}
+td.flight_select {
+	background-image: url(images/flight_select_bg.gif);
+	width: 448px;
+	height: 20px;
+}		
+td.communi_select_back {
+background-image: url(images/communic_select_back.gif);
+	width: 448px;
+	height: 21px;
+}	
+td.info_select_back {
+background-image: url(images/info_select_back.gif);
+	width: 448px;
+	height: 23px;
+}		
+
